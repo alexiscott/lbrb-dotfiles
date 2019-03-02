@@ -1,7 +1,7 @@
 server {
     listen 80;
     listen [::]:80;
-    root /var/www/html;
+    root /home/alex/public_html/ws;
     index  index.php index.html index.htm;
     server_name  admin.williamscott.org www.admin.williamscott.org;
 
